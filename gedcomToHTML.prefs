@@ -1,0 +1,9 @@
+family_table = 1   # print family tree type table
+print_family = 0   # print detailed family info
+print_notes = 1    # Print an individual's notes
+check_images = 1   # Check for images in the $out_dir/$photo_dir directory
+private = 1        # Make birth information private
+out_dir = Html	   # Directory where the HTML files will be stored
+photo_dir = Pics   # Directory where the individual's picture files are
+treepic_path = ..  # Location of the tree gifs.  Note lack of trailing /
+update_status = 1

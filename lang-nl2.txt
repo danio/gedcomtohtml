@@ -1,0 +1,23 @@
+#Dutch translation by Pieter A.V.P. Donche
+$str_birth="Geboren:";
+$str_death="Overleden:";
+$str_burial="Begraven:";
+$str_occupation="Beroep:";
+$str_private="(Prive)";
+$str_father="Vader:";
+$str_mother="Moeder:";
+$str_child="Kind";
+$str_notes="Notas:";
+$str_all_surnames="Alle familienamen in de boom";
+$str_people="Personen";
+$str_surnames="Familienamen";
+$str_married="Gehuwd";
+$str_on="op ";
+$str_at="te ";
+$str_list_of="Lijst van";
+$str_lpeople="Lijst van personen";
+$str_lsurnames="Lijst van familienamen";
+$str_people_and="personen en";
+$str_unique_names="unieke namen";
+$str_m="x.";
+

@@ -1,0 +1,23 @@
+#German translation by Jan Baranczyk
+$str_birth="Geboren:";
+$str_death="Gestorben:";
+$str_burial="Beerdigt:";
+$str_occupation="Beruf:";
+$str_private="Privat";
+$str_father="Vater:";
+$str_mother="Mutter:";
+$str_child="Kind";
+$str_notes="Notizen:";
+$str_all_surnames="Alle Familiennamen im Stammbaum";
+$str_people="People";
+$str_surnames="Surnames";
+$str_married="Geheiratet";
+$str_on="";
+$str_at="in ";
+$str_list_of="Verzeichnis enthlt";
+$str_lpeople="Personenverzeichnis";
+$str_lsurnames="Verzeichnis der Familiennamen";
+$str_people_and="Personen und";
+$str_families="Familien";
+$str_m="x.";
+

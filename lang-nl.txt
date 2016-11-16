@@ -1,0 +1,23 @@
+#Dutch translation by Frank A Roos
+$str_birth="Geboren:";
+$str_death="Overleden:";
+$str_burial="Begraven:";
+$str_occupation="Beroep:";
+$str_private="(Niet openbaar)";
+$str_father="Vader:";
+$str_mother="Moeder:";
+$str_child="Kind";
+$str_notes="Notities:";
+$str_all_surnames="Alle achternamen in de stamboom";
+$str_people="Personen";
+$str_surnames="Achternamen";
+$str_married="Getrouwd";
+$str_on="op ";
+$str_at="te ";
+$str_list_of="Lijst van";
+$str_lpeople="Lijst van personen";
+$str_lsurnames="Lijst van achternamen";
+$str_people_and="personen en";
+$str_unique_names="aparte namen";
+$str_m="x.";
+

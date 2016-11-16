@@ -1,0 +1,23 @@
+#French translation by Pieter A.V.P. Donche
+$str_birth="Naissance:";
+$str_death="Deces:";
+$str_burial="Enterrement:";
+$str_occupation="Profession:";
+$str_private="(Prive)";
+$str_father="Pere:";
+$str_mother="Mere:";
+$str_child="Enfant";
+$str_notes="Notes:";
+$str_all_surnames="Tous les patronymes de l'arbre";
+$str_people="Personnes";
+$str_surnames="Patronymes";
+$str_married="Marie(e)";
+$str_on="le ";
+$str_at="a ";
+$str_list_of="Liste de";
+$str_lpeople="Liste de personnes";
+$str_lsurnames="Liste des patronymes";
+$str_people_and="personnes et";
+$str_unique_names="patronymes uniques";
+$str_m="x.";
+
